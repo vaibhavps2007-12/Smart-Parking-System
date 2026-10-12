@@ -1,3 +1,8 @@
+<img width="497" height="431" alt="Screenshot 2026-10-01 003518" src="https://github.com/user-attachments/assets/07f8a95f-ea51-4b40-83f5-09e8496a5b9b" />
+<img width="1506" height="602" alt="Screenshot 2026-10-01 003443" src="https://github.com/user-attachments/assets/dd984f43-627e-4706-9f6c-d7b8235c99f8" />
+<img width="1535" height="711" alt="Screenshot 2026-10-01 003421" src="https://github.com/user-attachments/assets/31d57f07-4ca5-43a9-92be-d4311c79d6a3" />
+<img width="1670" height="613" alt="Screenshot 2026-10-01 003356" src="https://github.com/user-attachments/assets/99d6e6c3-b7ab-4ac8-91ca-8cd508ad51d4" />
+<img width="1570" height="522" alt="Screenshot 2026-10-01 003332" src="https://github.com/user-attachments/assets/58d66184-d57e-4665-afaa-90f88c02e5b5" />
 # Smart-Parking-System
 Smart Parking System is a Python-based project designed to manage 10 parking slots efficiently. It records vehicle entry and exit, automatically assigns available slots, tracks parking duration, calculates parking fees, and displays slot availability. The system reduces manual work and demonstrates a simple solution for smart parking management.
 # Smart Parking System 🚗
