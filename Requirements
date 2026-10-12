@@ -1,0 +1,50 @@
+# Requirement Statement – Smart Parking System
+
+## 1. Functional Requirements
+
+1. The system shall manage a total of 10 parking slots.
+2. The system shall display the availability status of all parking slots.
+3. The system shall automatically assign the first available slot to a vehicle.
+4. The system shall accept and store the vehicle registration number.
+5. The system shall record the vehicle's entry date and time.
+6. The system shall prevent the same vehicle from being parked twice simultaneously.
+7. The system shall allow users to search for a parked vehicle.
+8. The system shall record the vehicle's exit date and time when it leaves.
+9. The system shall calculate the total parking duration.
+10. The system shall calculate the parking fee at a rate of ₹20 per hour, with a minimum charge of one hour.
+11. The system shall generate a parking receipt containing vehicle details, parking duration and fee.
+12. The system shall mark the parking slot as available after the vehicle exits.
+13. The system shall display an appropriate message when parking is full or a vehicle is not found.
+
+## 2. Non-Functional Requirements
+
+1. **Usability:** The system should provide a simple, menu-driven interface.
+2. **Performance:** The system should process parking operations quickly.
+3. **Reliability:** The system should correctly maintain slot status during program execution.
+4. **Accuracy:** The system should calculate parking duration and fees based on recorded entry and exit times.
+5. **Maintainability:** The Python code should be organized into functions for easy modification.
+6. **Portability:** The program should run on systems with Python 3.x installed.
+
+## 3. Hardware Requirements
+
+- Computer or laptop
+- Keyboard and monitor
+- Minimum 4 GB RAM recommended
+
+## 4. Software Requirements
+
+- Python 3.x
+- Visual Studio Code, IDLE or PyCharm
+- Windows, Linux or macOS operating system
+- Python `datetime` module
+
+## 5. System Constraints
+
+- The system supports 10 parking slots.
+- Vehicle details are entered manually.
+- Data is stored in memory and is lost when the program terminates.
+- The current version does not use physical sensors, cameras, a database or online payment facilities.
+
+## 6. Expected Outcome
+
+The system is expected to provide an organized method of managing parking slots, tracking vehicle entry and exit times, calculating parking duration and parking fees, and displaying current parking availability.
