@@ -1,0 +1,41 @@
+# Project Statement
+
+## Problem Statement
+
+Parking management is a common problem in places such as colleges, offices, shopping malls, hospitals and industrial areas. People often face difficulties in finding available parking spaces, while manually managing parking slots, vehicle entry and exit times, and parking fees can be time-consuming and prone to errors. This project aims to develop a simple Python-based Smart Parking System that helps manage 10 parking slots, automatically assigns available slots, records vehicle details, tracks parking duration and calculates parking fees.
+
+## Scope of the Project
+
+The Smart Parking System focuses on:
+
+- **Parking slot management:** Managing and monitoring 10 parking slots.
+- **Vehicle input:** Accepting the vehicle registration number from the user.
+- **Slot allocation:** Automatically assigning the first available parking slot.
+- **Parking status:** Displaying available and occupied parking slots.
+- **Vehicle tracking:** Recording vehicle entry and exit times.
+- **Parking duration calculation:** Calculating how long each vehicle remains parked.
+- **Fee calculation:** Calculating parking charges based on the parking duration.
+- **Vehicle search:** Finding a vehicle using its registration number.
+- **Parking receipt:** Displaying vehicle details, parking duration and the total fee when the vehicle exits.
+
+## Target Users
+
+- **Students:** To manage vehicle parking in colleges and universities.
+- **Office employees:** To organize parking in office buildings.
+- **Industrial workers:** To manage vehicle parking in industrial areas.
+- **Parking administrators:** To monitor parking slot availability and maintain vehicle records.
+- **General public:** To understand and use a basic computerized parking management system.
+
+## High-Level Features
+
+- **Parking slot display:** Showing the status of all 10 parking slots.
+- **Vehicle registration:** Accepting and storing vehicle registration numbers.
+- **Automatic slot allocation:** Assigning an available slot to an incoming vehicle.
+- **Duplicate vehicle detection:** Preventing the same vehicle from being parked twice simultaneously.
+- **Entry and exit tracking:** Recording the date and time when a vehicle enters and leaves.
+- **Parking duration calculation:** Calculating the total time a vehicle has been parked.
+- **Parking fee calculation:** Calculating the fee at a rate of ₹20 per hour, with a minimum charge of one hour.
+- **Vehicle search:** Displaying the parking details of a currently parked vehicle.
+- **Parking status monitoring:** Showing the total, occupied and available slots.
+- **Parking receipt generation:** Displaying the final parking details and fee when a vehicle exits.
+- **Full parking notification:** Informing the user when all 10 parking slots are occupied.
